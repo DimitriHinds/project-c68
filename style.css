@@ -2,3 +2,11 @@ body
 {
     text-align: center;
 }
+#video
+{
+    width: 100%;
+}
+#container { 
+ display: flex;
+    align-content: flex-end; 
+}
