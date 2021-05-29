@@ -1,12 +1,9 @@
-body
-{
-    text-align: center;
-}
 #video
 {
     width: 100%;
 }
-#container { 
- display: flex;
-    align-content: flex-end; 
+#map iframe
+{
+    width: 50%;
+    float: left;
 }
